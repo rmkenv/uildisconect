@@ -1,0 +1,4 @@
+pandas
+folium
+requests
+geopandas  # optional, not required by build_map.py but useful for future work
